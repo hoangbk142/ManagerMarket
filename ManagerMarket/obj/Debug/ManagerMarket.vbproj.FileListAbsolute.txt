@@ -1,0 +1,16 @@
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\bin\Debug\ManagerMarket.exe.config
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.AddKH.resources
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.Form1.resources
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.Resources.resources
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.vbproj.GenerateResource.Cache
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\bin\Debug\ManagerMarket.exe
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\bin\Debug\ManagerMarket.pdb
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\bin\Debug\ManagerMarket.xml
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.exe
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.xml
+c:\users\bk\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.pdb
+C:\Users\BK\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.AddLSP.resources
+C:\Users\BK\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.AddSp.resources
+C:\Users\BK\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.AddHD.resources
+C:\Users\BK\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.EditKH.resources
+C:\Users\BK\documents\visual studio 2012\Projects\ManagerMarket\ManagerMarket\obj\Debug\ManagerMarket.AddCTHD.resources
